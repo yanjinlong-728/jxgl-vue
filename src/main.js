@@ -8,7 +8,7 @@ import 'lib-flexible/flexible'
 
 Vue.use(Mint)  
 
-Vue.config.productionTip = false
+Vue.config.productionTip = false;
 
 new Vue({
   router,
